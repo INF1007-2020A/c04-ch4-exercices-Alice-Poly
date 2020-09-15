@@ -5,7 +5,7 @@
 def is_even_len(string: str) -> bool:
     count = len(string)
     x = count/2
-    if type(x)
+    if type(x) = int
     pass
 
 

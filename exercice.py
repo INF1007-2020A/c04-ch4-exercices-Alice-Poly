@@ -6,7 +6,7 @@ def is_even_len(string: str) -> bool:
     count = len(string)
     x = count/2
     if type(x) = int
-        print(Even Length")
+        print("Even Length")
     else:
         print("Not even length")
     pass

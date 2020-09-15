@@ -7,7 +7,8 @@ def is_even_len(string: str) -> bool:
     x = count/2
     if type(x) = int
         print(Even Length)
-    e
+    else:
+        print
     pass
 
 

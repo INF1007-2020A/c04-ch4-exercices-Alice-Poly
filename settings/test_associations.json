@@ -1,0 +1,30 @@
+{
+  "test_square_root": {
+    "name": "Calcul de la racine carré",
+    "points": 1
+  },
+  "test_square": {
+    "name": "Calcul du carré",
+    "points": 1
+  },
+  "test_average": {
+    "name": "Calcul de la moyenne de 3 nombres",
+    "points": 1
+  },
+  "test_to_radians": {
+    "name": "Conversion degrés -> radians",
+    "points": 1
+  },
+  "test_to_degrees": {
+    "name": "Conversion radians -> degrés",
+    "points": 1
+  },
+  "test_to_celsius": {
+    "name": "Conversion Farenheit -> Celsius",
+    "points": 1
+  },
+  "test_to_farenheit": {
+    "name": "Conversion Celsius -> Farenheit",
+    "points": 1
+  }
+}

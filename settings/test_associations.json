@@ -1,30 +1,22 @@
 {
-  "test_square_root": {
-    "name": "Calcul de la racine carré",
+  "is_even_len": {
+    "name": "Vérifie si la longueur de la chaine est pair",
     "points": 1
   },
-  "test_square": {
-    "name": "Calcul du carré",
+  "remove_third_char": {
+    "name": "Retire le 3e char de la chaine",
     "points": 1
   },
-  "test_average": {
-    "name": "Calcul de la moyenne de 3 nombres",
+  "replace_char": {
+    "name": "Remplace un char dans la chaine",
     "points": 1
   },
-  "test_to_radians": {
-    "name": "Conversion degrés -> radians",
+  "get_number_of_char": {
+    "name": "Retourne l'ocurence d'un caratère dans la chaine",
     "points": 1
   },
-  "test_to_degrees": {
-    "name": "Conversion radians -> degrés",
-    "points": 1
-  },
-  "test_to_celsius": {
-    "name": "Conversion Farenheit -> Celsius",
-    "points": 1
-  },
-  "test_to_farenheit": {
-    "name": "Conversion Celsius -> Farenheit",
+  "get_number_of_words": {
+    "name": "Retourne l'ocurence d'un mot dans la chaine",
     "points": 1
   }
 }
